@@ -10,8 +10,13 @@ Vanilla DQN with Go_Explore
 
 The below graphs are both trained with the same hyperparamaters for 1e6 frames. The only change being to trun Go_Explore on or off.
 
-Inline-style: 
-![alt text](https://github.com/robjlyons/GO_DQN/blob/main/DQN_Vanilla.png "DQN_Vanilla")
+DQN:
+
+![DQN](https://github.com/robjlyons/GO_DQN/blob/main/DQN_Vanilla.png "DQN_Vanilla")
+
+GO_DQN:
+
+![GO_DQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN.png "GO_DQN")
 
 
 
