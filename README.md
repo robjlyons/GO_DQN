@@ -12,11 +12,11 @@ The below graphs are both trained with the same hyperparamaters for 1e6 frames. 
 
 DQN:
 
-![DQN](https://github.com/robjlyons/GO_DQN/blob/main/DQN_Vanilla.png "DQN_Vanilla")
+![DQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN/DQN_Vanilla.png "DQN_Vanilla")
 
 GO_DQN:
 
-![GO_DQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN.png "GO_DQN")
+![GO_DQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN/GO_DQN.png "GO_DQN")
 
 
 
