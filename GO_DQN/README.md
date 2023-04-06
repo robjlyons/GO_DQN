@@ -26,6 +26,8 @@ GO_DQN:
 
 GO_DQN_NonEpisodic:
 
+![GO_DQN_NonEpisodic](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN/GO_DQN_NoResets.png "GO_DQN_NonEpisodic")
+
 This version makes a few changes:
 
 1. Instead of saving/laoding the state for the 'return' fuction of go explore we walk through the trajectory.
