@@ -30,5 +30,5 @@ GO_DQN_NonEpisodic:
 
 This version makes a few changes:
 
-1. Instead of saving/laoding the state for the 'return' fuction of go explore we walk through the trajectory.
+1. Instead of saving/loading the state for the 'return' fuction of go explore we walk through the trajectory.
 2. Instead of reseting the game we save cellhashes and then check if there is a trajectory between the current frame and the ram cellhash and 'return' that way. If no cellhash/ram combination can be found then reset and walk through the trajectory back to ram.
