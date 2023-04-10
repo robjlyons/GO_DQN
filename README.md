@@ -8,4 +8,4 @@ There is more information on the algorithms and their results in each folder.
 
 With thanks to: 
 * ryanrudes and his brilliant implementation of [Minimal Go_Explore](https://github.com/ryanrudes/minimal_goexplore)
-* I did take inspiration for the DQN variants, however, I am unable to locate the creator. I will add it when I find it or if you recognise any of your code please contact e and I shall credit you.
+* I did take inspiration for the DQN variants, however, I am unable to locate the creator. I will add it when I find it or if you recognise any of your code please contact me and I shall credit you.
