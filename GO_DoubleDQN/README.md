@@ -14,13 +14,13 @@ If you would like to use Kaggle instead then after install gym==0.19 add the fol
 
 Algorithm results below:
 
-The GO_Explore variant performs more consistently straight away but vanilla gets a much higher max score within the 1e6 steps.
+Similarly to the DQN results, Vanilla is better performing but this is likely due to the GO-Explore version going back to explore more states. The GO_DoubleDQN performs much better than the regular GO_DQN.
 
-DQN:
+DoubleDQN:
 
 ![DoubleDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/DoubleDQN_Vanilla.png "DoubleDQN_Vanilla")
 
-GO_DQN:
+GO_DoubleDQN:
 
 ![GO_DoubleDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/GO_DoubleDQN.png "GO_DoubleDQN")
 
