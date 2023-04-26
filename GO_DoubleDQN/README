@@ -18,15 +18,15 @@ The GO_Explore variant performs more consistently straight away but vanilla gets
 
 DQN:
 
-![DQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN/DQN_Vanilla.png "DQN_Vanilla")
+![DoubleDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/DoubleDQN_Vanilla.png "DoubleDQN_Vanilla")
 
 GO_DQN:
 
-![GO_DQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN/GO_DQN.png "GO_DQN")
+![GO_DoubleDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/GO_DoubleDQN.png "GO_DoubleDQN")
 
-GO_DQN_NonEpisodic:
+GO_DoubleDQN_NonEpisodic:
 
-![GO_DQN_NonEpisodic](https://github.com/robjlyons/GO_DQN/blob/main/GO_DQN/GO_DQN_NoResets.png "GO_DQN_NonEpisodic")
+To Be Added
 
 This version makes a few changes:
 
