@@ -16,10 +16,10 @@ Algorithm results below:
 
 PDQN:
 
-![PDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/DoubleDQN_Vanilla.png "PDQN_Vanilla")
+![PDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_PDQN/PDQN_Vanilla.png "PDQN_Vanilla")
 
 GO_PDQN:
 
-![GO_PDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/GO_DoubleDQN.png "GO_PDQN")
+![GO_PDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_PDQN/GO_PDQN.png "GO_PDQN")
 
 Note: I have added annealing to the learning rate for the GO_DoubleDQN version, the output spits out a warning about it but there is a noticable increase in performance.
