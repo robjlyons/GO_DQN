@@ -12,7 +12,7 @@ If you would like to use Kaggle instead then after install gym==0.19 add the fol
 
 Algorithm results below:
 
-Similarly to the DQN & DDQN results, Vanilla is better performing but this is likely due to the GO-Explore version going back to explore more states.
+Go_DuellingDQN has performed better than the vanilla version, finally bring GO_explore above vanilla even on a non-exploratitory environment such as Pong.
 
 DuelingDQN:
 
