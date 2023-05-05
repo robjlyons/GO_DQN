@@ -12,7 +12,7 @@ If you would like to use Kaggle instead then after install gym==0.19 add the fol
 
 Algorithm results below:
 
-
+Performance is similar between vanilla and Go_explore, Go_explore is more unstable due to the exploration.
 
 PDQN:
 
