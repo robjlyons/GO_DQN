@@ -16,10 +16,10 @@ Similarly to the DQN & DDQN results, Vanilla is better performing but this is li
 
 DuelingDQN:
 
-![DuelingDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/DoubleDQN_Vanilla.png "DuellingDQN_Vanilla")
+![DuelingDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DuelingDQN/DuellingDQN_Vanilla.png "DuellingDQN_Vanilla")
 
 GO_DuellingDQN:
 
-![GO_DuellingDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DoubleDQN/GO_DoubleDQN.png "GO_DuellingDQN")
+![GO_DuellingDQN](https://github.com/robjlyons/GO_DQN/blob/main/GO_DuelingDQN/GO_DuellingDQN.png "GO_DuellingDQN")
 
 Note: I have added annealing to the learning rate for the GO_DuellingDQN version, the output spits out a warning about it but there is a noticable increase in performance.
